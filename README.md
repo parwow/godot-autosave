@@ -1,6 +1,6 @@
 # godot-autosave
 autosave is good addon in godot.  
-Do you or your friend use alt+F4?
+Do you or your friend use alt+F4?  
 Don't worry!  
 This addon is add autosave in your godot.  
 
