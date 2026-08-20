@@ -8,3 +8,6 @@ This addon is add autosave in your godot.
 1. Download folder in github Releases (foder name: autosave) or godot assit store.  
 2. move foder to res://addon/ .
 3. Go to project setting -> addon(or plugin) -> check autosave.
+
+## How to use?
+writing...
